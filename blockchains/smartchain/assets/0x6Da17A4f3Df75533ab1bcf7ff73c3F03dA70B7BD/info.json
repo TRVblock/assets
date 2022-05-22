@@ -1,0 +1,36 @@
+{
+    "name": "Triveum",
+    "website": "https://triveumchain.com/",
+    "description": "Triveum (TRV) is a use case project on blockchain technology products.",
+    "explorer": "https://bscscan.com/token/0x6Da17A4f3Df75533ab1bcf7ff73c3F03dA70B7BD",
+    "type": "BEP20",
+    "symbol": "TRV",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x6Da17A4f3Df75533ab1bcf7ff73c3F03dA70B7BD",
+    "links":  [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/triveum"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/triveumchain"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://docs.google.com/document/d/1k_bWHxRYI2WGjqVZE32yyJ2LRnBTXkbDrzH0ODoqx18/edit?usp=sharing"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/triveum/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/triveum"
+        }
+    ],
+    "tags": [
+        "blockchain"
+    ]
+}
